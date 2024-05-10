@@ -86,7 +86,8 @@ start_server()
 ![image](https://github.com/PreethiS647/3b_CHAT_USING_TCP_SOCKETS/assets/147313372/1708e00b-29db-47f8-8468-01fe3a44905d)
 
 ## CLIENT
-![Uploading image.png…]()
+![image](https://github.com/PreethiS647/3b_CHAT_USING_TCP_SOCKETS/assets/147313372/7eb035c5-b9b2-4be5-9ad4-2c5b1f95c6e5)
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
